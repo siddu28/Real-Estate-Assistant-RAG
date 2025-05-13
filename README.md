@@ -30,6 +30,10 @@ This project uses **Retrieval-Augmented Generation (RAG)** to provide accurate, 
 
   ![image](https://github.com/user-attachments/assets/3df2e611-3487-4f82-9b6e-9608b0ec4932)
 
+## Here is project Demo
+https://github.com/user-attachments/assets/b8c5fb54-f251-4b6a-a4e5-112b89298124
+
+
 
 
 ### Set-up
